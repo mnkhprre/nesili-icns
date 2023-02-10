@@ -1,0 +1,2819 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Last edited by Ukelele version 359 on 2023-02-10 at 20:17 (GMT+3)-->
+<keyboard group="126" id="-24493" name="Nesili" maxout="3">
+    <layouts>
+        <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
+        <layout first="18" last="18" mapSet="994" modifiers="f4"/>
+        <layout first="21" last="23" mapSet="994" modifiers="f4"/>
+        <layout first="30" last="30" mapSet="994" modifiers="f4"/>
+        <layout first="194" last="194" mapSet="994" modifiers="f4"/>
+        <layout first="197" last="197" mapSet="994" modifiers="f4"/>
+        <layout first="200" last="201" mapSet="994" modifiers="f4"/>
+        <layout first="206" last="207" mapSet="994" modifiers="f4"/>
+    </layouts>
+    <modifierMap id="f4" defaultIndex="7">
+        <keyMapSelect mapIndex="0">
+            <modifier keys=""/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="1">
+            <modifier keys="anyShift caps?"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="2">
+            <modifier keys="caps"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="3">
+            <modifier keys="anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="4">
+            <modifier keys="anyShift caps? anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="5">
+            <modifier keys="caps anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="6">
+            <modifier keys="anyShift? caps? command"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="7">
+            <modifier keys="anyShift caps? option? command? control"/>
+            <modifier keys="shift? caps? anyOption command? control"/>
+            <modifier keys="caps? anyOption? command? control"/>
+        </keyMapSelect>
+    </modifierMap>
+    <keyMapSet id="16c">
+        <keyMap index="0">
+            <key code="0" action="a"/>
+            <key code="1" action="s"/>
+            <key code="2" action="d"/>
+            <key code="3" action="f"/>
+            <key code="4" action="h"/>
+            <key code="5" action="g"/>
+            <key code="6" action="z"/>
+            <key code="7" action="x"/>
+            <key code="8" action="c"/>
+            <key code="9" action="v"/>
+            <key code="10" output="§"/>
+            <key code="11" action="b"/>
+            <key code="12" action="q"/>
+            <key code="13" action="w"/>
+            <key code="14" action="14"/>
+            <key code="15" action="r"/>
+            <key code="16" action="19"/>
+            <key code="17" action="t"/>
+            <key code="18" action="𒁹"/>
+            <key code="19" action="𒈫"/>
+            <key code="20" action="𒐈"/>
+            <key code="21" action="𒐉"/>
+            <key code="22" action="𒐋"/>
+            <key code="23" action="𒐊"/>
+            <key code="24" output="="/>
+            <key code="25" action="𒐎"/>
+            <key code="26" action="𒐌"/>
+            <key code="27" output="-"/>
+            <key code="28" action="𒐍"/>
+            <key code="29" action="𒌋"/>
+            <key code="30" output="]"/>
+            <key code="31" action="17"/>
+            <key code="32" action="18"/>
+            <key code="33" output="["/>
+            <key code="34" action="15"/>
+            <key code="35" action="p"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="l"/>
+            <key code="38" action="j"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" action="k"/>
+            <key code="41" action=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" action="16"/>
+            <key code="46" action="m"/>
+            <key code="47" action="."/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="5"/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="1">
+            <key code="0" action="6"/>
+            <key code="1" action="S"/>
+            <key code="2" action="D"/>
+            <key code="3" action="F"/>
+            <key code="4" action="H"/>
+            <key code="5" action="G"/>
+            <key code="6" action="Z"/>
+            <key code="7" action="X"/>
+            <key code="8" action="C"/>
+            <key code="9" action="V"/>
+            <key code="10" output="±"/>
+            <key code="11" action="B"/>
+            <key code="12" action="Q"/>
+            <key code="13" output="W"/>
+            <key code="14" action="E"/>
+            <key code="15" action="R"/>
+            <key code="16" action="12"/>
+            <key code="17" action="T"/>
+            <key code="18" action="𒌋𒁹"/>
+            <key code="19" output="𒌋𒌋"/>
+            <key code="20" output="𒌍"/>
+            <key code="21" output="𒄭"/>
+            <key code="22" action="𒁹 1"/>
+            <key code="23" output="𒐐"/>
+            <key code="24" output="+"/>
+            <key code="25" output="("/>
+            <key code="26" output="𒁹𒌋"/>
+            <key code="27" output="_"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
+            <key code="30" output="}"/>
+            <key code="31" action="10"/>
+            <key code="32" action="11"/>
+            <key code="33" output="{"/>
+            <key code="34" action="8"/>
+            <key code="35" action="P"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="L"/>
+            <key code="38" output="J"/>
+            <key code="39" output="&#x0022;"/>
+            <key code="40" action="K"/>
+            <key code="41" action=":"/>
+            <key code="42" output="|"/>
+            <key code="43" action="&#x003C;"/>
+            <key code="44" output="?"/>
+            <key code="45" action="9"/>
+            <key code="46" action="M"/>
+            <key code="47" output="&#x003E;"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="5"/>
+            <key code="50" output="~"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="*"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="+"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="="/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="/"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="2">
+            <key code="0" action="6"/>
+            <key code="1" output="S"/>
+            <key code="2" output="D"/>
+            <key code="3" output="F"/>
+            <key code="4" output="H"/>
+            <key code="5" output="G"/>
+            <key code="6" output="Z"/>
+            <key code="7" output="X"/>
+            <key code="8" output="C"/>
+            <key code="9" output="V"/>
+            <key code="10" output="§"/>
+            <key code="11" output="B"/>
+            <key code="12" output="Q"/>
+            <key code="13" output="W"/>
+            <key code="14" action="E"/>
+            <key code="15" output="R"/>
+            <key code="16" action="12"/>
+            <key code="17" output="T"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output="]"/>
+            <key code="31" action="10"/>
+            <key code="32" action="11"/>
+            <key code="33" output="["/>
+            <key code="34" action="8"/>
+            <key code="35" output="P"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="L"/>
+            <key code="38" output="J"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" output="K"/>
+            <key code="41" output=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" action="9"/>
+            <key code="46" output="M"/>
+            <key code="47" output="."/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="5"/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="3">
+            <key code="0" action="å"/>
+            <key code="1" action="ß"/>
+            <key code="2" action="∂"/>
+            <key code="3" action="ƒ"/>
+            <key code="4" action="˙"/>
+            <key code="5" action="©"/>
+            <key code="6" action="Ω"/>
+            <key code="7" output="≈"/>
+            <key code="8" action="ç"/>
+            <key code="9" action="√"/>
+            <key code="10" output="§"/>
+            <key code="11" action="∫"/>
+            <key code="12" action="œ"/>
+            <key code="13" output="∑"/>
+            <key code="14" action="0"/>
+            <key code="15" action="®"/>
+            <key code="16" output="¥"/>
+            <key code="17" action="†"/>
+            <key code="18" output="¡"/>
+            <key code="19" output="™"/>
+            <key code="20" output="£"/>
+            <key code="21" output="¢"/>
+            <key code="22" output="§"/>
+            <key code="23" output="∞"/>
+            <key code="24" output="≠"/>
+            <key code="25" output="ª"/>
+            <key code="26" output="¶"/>
+            <key code="27" output="–"/>
+            <key code="28" output="•"/>
+            <key code="29" output="º"/>
+            <key code="30" output="‘"/>
+            <key code="31" output="ø"/>
+            <key code="32" output="¨"/>
+            <key code="33" output="“"/>
+            <key code="34" output="ˆ"/>
+            <key code="35" action="π"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="¬"/>
+            <key code="38" output="∆"/>
+            <key code="39" output="æ"/>
+            <key code="40" action="˚"/>
+            <key code="41" output="…"/>
+            <key code="42" output="«"/>
+            <key code="43" output="≤"/>
+            <key code="44" output="÷"/>
+            <key code="45" action="˜"/>
+            <key code="46" action="µ"/>
+            <key code="47" output="≥"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" action="1"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="4">
+            <key code="0" output="Å"/>
+            <key code="1" action="Í"/>
+            <key code="2" action="Î"/>
+            <key code="3" output="Ï"/>
+            <key code="4" action="Ó"/>
+            <key code="5" action="˝"/>
+            <key code="6" action="¸"/>
+            <key code="7" action="˛"/>
+            <key code="8" action="Ç"/>
+            <key code="9" action="◊"/>
+            <key code="10" output="±"/>
+            <key code="11" action="ı"/>
+            <key code="12" output="Œ"/>
+            <key code="13" output="„"/>
+            <key code="14" output="´"/>
+            <key code="15" action="‰"/>
+            <key code="16" output="Á"/>
+            <key code="17" action="ˇ"/>
+            <key code="18" output="⁄"/>
+            <key code="19" output="€"/>
+            <key code="20" output="‹"/>
+            <key code="21" output="›"/>
+            <key code="22" output="ﬂ"/>
+            <key code="23" output="ﬁ"/>
+            <key code="24" output="±"/>
+            <key code="25" output="·"/>
+            <key code="26" output="‡"/>
+            <key code="27" output="—"/>
+            <key code="28" output="°"/>
+            <key code="29" output="‚"/>
+            <key code="30" output="’"/>
+            <key code="31" output="Ø"/>
+            <key code="32" output="¨"/>
+            <key code="33" output="”"/>
+            <key code="34" output="ˆ"/>
+            <key code="35" output="∏"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="Ò"/>
+            <key code="38" output="Ô"/>
+            <key code="39" output="Æ"/>
+            <key code="40" action=""/>
+            <key code="41" output="Ú"/>
+            <key code="42" output="»"/>
+            <key code="43" output="¯"/>
+            <key code="44" output="¿"/>
+            <key code="45" action="˜ 1"/>
+            <key code="46" action="Â"/>
+            <key code="47" output="˘"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="*"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="+"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="="/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="/"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="5">
+            <key code="0" output="Å"/>
+            <key code="1" output="Í"/>
+            <key code="2" output="Î"/>
+            <key code="3" output="Ï"/>
+            <key code="4" output="Ó"/>
+            <key code="5" output="©"/>
+            <key code="6" output="Ω"/>
+            <key code="7" output="≈"/>
+            <key code="8" output="Ç"/>
+            <key code="9" output="√"/>
+            <key code="10" output="§"/>
+            <key code="11" output="ı"/>
+            <key code="12" output="Œ"/>
+            <key code="13" output="∑"/>
+            <key code="14" output="´"/>
+            <key code="15" output="®"/>
+            <key code="16" output="Á"/>
+            <key code="17" output="†"/>
+            <key code="18" output="¡"/>
+            <key code="19" output="™"/>
+            <key code="20" output="£"/>
+            <key code="21" output="¢"/>
+            <key code="22" output="§"/>
+            <key code="23" output="∞"/>
+            <key code="24" output="≠"/>
+            <key code="25" output="ª"/>
+            <key code="26" output="¶"/>
+            <key code="27" output="–"/>
+            <key code="28" output="•"/>
+            <key code="29" output="º"/>
+            <key code="30" output="‘"/>
+            <key code="31" output="Ø"/>
+            <key code="32" output="¨"/>
+            <key code="33" output="“"/>
+            <key code="34" output="ˆ"/>
+            <key code="35" output="∏"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="Ò"/>
+            <key code="38" output="Ô"/>
+            <key code="39" output="Æ"/>
+            <key code="40" output="˚"/>
+            <key code="41" output="…"/>
+            <key code="42" output="«"/>
+            <key code="43" output="≤"/>
+            <key code="44" output="÷"/>
+            <key code="45" output="˜"/>
+            <key code="46" output="Â"/>
+            <key code="47" output="≥"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="6">
+            <key code="0" output="a"/>
+            <key code="1" output="s"/>
+            <key code="2" output="d"/>
+            <key code="3" output="f"/>
+            <key code="4" output="h"/>
+            <key code="5" output="g"/>
+            <key code="6" output="z"/>
+            <key code="7" output="x"/>
+            <key code="8" output="c"/>
+            <key code="9" output="v"/>
+            <key code="10" output="§"/>
+            <key code="11" output="b"/>
+            <key code="12" output="q"/>
+            <key code="13" output="w"/>
+            <key code="14" output="e"/>
+            <key code="15" output="r"/>
+            <key code="16" output="y"/>
+            <key code="17" output="t"/>
+            <key code="18" output="¡"/>
+            <key code="19" output="™"/>
+            <key code="20" output="£"/>
+            <key code="21" output="¢"/>
+            <key code="22" output="§"/>
+            <key code="23" output="∞"/>
+            <key code="24" output="≠"/>
+            <key code="25" output="ª"/>
+            <key code="26" output="¶"/>
+            <key code="27" output="–"/>
+            <key code="28" output="•"/>
+            <key code="29" output="º"/>
+            <key code="30" output="]"/>
+            <key code="31" output="o"/>
+            <key code="32" output="u"/>
+            <key code="33" output="["/>
+            <key code="34" output="i"/>
+            <key code="35" output="p"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="l"/>
+            <key code="38" output="j"/>
+            <key code="39" output="æ"/>
+            <key code="40" output="k"/>
+            <key code="41" output="…"/>
+            <key code="42" output="«"/>
+            <key code="43" output="≤"/>
+            <key code="44" output="÷"/>
+            <key code="45" output="~"/>
+            <key code="46" output="m"/>
+            <key code="47" output="≥"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="7">
+            <key code="0" output="&#x0001;"/>
+            <key code="1" output="S"/>
+            <key code="2" output="&#x0004;"/>
+            <key code="3" output="&#x0006;"/>
+            <key code="4" output="&#x0008;"/>
+            <key code="5" output="&#x0007;"/>
+            <key code="6" output="&#x001A;"/>
+            <key code="7" output="&#x0018;"/>
+            <key code="8" output="&#x0003;"/>
+            <key code="9" output="&#x0016;"/>
+            <key code="10" output="0"/>
+            <key code="11" output="&#x0002;"/>
+            <key code="12" output="&#x0011;"/>
+            <key code="13" output="&#x0017;"/>
+            <key code="14" output="&#x0005;"/>
+            <key code="15" output="&#x0012;"/>
+            <key code="16" output="&#x0019;"/>
+            <key code="17" output="&#x0014;"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="&#x001F;"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output="&#x001D;"/>
+            <key code="31" output="&#x000F;"/>
+            <key code="32" output="&#x0015;"/>
+            <key code="33" output="&#x001B;"/>
+            <key code="34" output="&#x0009;"/>
+            <key code="35" output="&#x0010;"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="&#x000C;"/>
+            <key code="38" output="&#x000A;"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" output="&#x000B;"/>
+            <key code="41" output=";"/>
+            <key code="42" output="&#x001C;"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" output="&#x000E;"/>
+            <key code="46" output="&#x000D;"/>
+            <key code="47" output="."/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="5"/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+    </keyMapSet>
+    <keyMapSet id="994">
+        <keyMap index="0" baseMapSet="16c" baseIndex="0">
+            <key code="24" output="^"/>
+            <key code="30" output="["/>
+            <key code="33" output="@"/>
+            <key code="39" output=":"/>
+            <key code="42" output="]"/>
+            <key code="93" output="¥"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="1" baseMapSet="16c" baseIndex="1">
+            <key code="19" output="&#x0022;"/>
+            <key code="22" output="&#x0026;"/>
+            <key code="24" output="~"/>
+            <key code="25" output=")"/>
+            <key code="26" output="&#x0027;"/>
+            <key code="27" output="="/>
+            <key code="28" output="("/>
+            <key code="29" output="0"/>
+            <key code="30" output="{"/>
+            <key code="33" output="`"/>
+            <key code="39" output="*"/>
+            <key code="41" output="+"/>
+            <key code="42" output="}"/>
+            <key code="93" output="|"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="2" baseMapSet="16c" baseIndex="2">
+            <key code="24" output="^"/>
+            <key code="30" output="["/>
+            <key code="33" output="@"/>
+            <key code="39" output=":"/>
+            <key code="42" output="]"/>
+            <key code="93" output="¥"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="3" baseMapSet="16c" baseIndex="3">
+            <key code="93" output="\"/>
+            <key code="94" action="1"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="4" baseMapSet="16c" baseIndex="4">
+            <key code="93" output="|"/>
+            <key code="94" output="`"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="5" baseMapSet="16c" baseIndex="5">
+            <key code="93" output="\"/>
+            <key code="94" output="`"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="6" baseMapSet="16c" baseIndex="6">
+            <key code="93" output="\"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+        <keyMap index="7" baseMapSet="16c" baseIndex="7">
+            <key code="93" output="|"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="5"/>
+            <key code="104" action="5"/>
+        </keyMap>
+    </keyMapSet>
+    <actions>
+        <action id=".">
+            <when state="none" output="."/>
+            <when state="SAWQA" output="𒋡"/>
+            <when state="SAWQU" output="𒄣"/>
+            <when state="sawA" output="𒀀"/>
+            <when state="sawBA" output="𒁀"/>
+            <when state="sawBE" output="𒁁"/>
+            <when state="sawBI" output="𒁉"/>
+            <when state="sawBU" output="𒁍"/>
+            <when state="sawBV" output="𒁓"/>
+            <when state="sawCA" output="𒊭"/>
+            <when state="sawCE" output="𒊺"/>
+            <when state="sawCI" output="𒅆"/>
+            <when state="sawCU" output="𒋗"/>
+            <when state="sawCV" output="𒋩"/>
+            <when state="sawD" output="𒀭"/>
+            <when state="sawDA" output="𒁕"/>
+            <when state="sawDE" output="𒁲"/>
+            <when state="sawDI" output="𒁲"/>
+            <when state="sawDU" output="𒁺"/>
+            <when state="sawDV" output="𒄙"/>
+            <when state="sawE" output="𒂊"/>
+            <when state="sawGA" output="𒂵"/>
+            <when state="sawGE" output="𒄀"/>
+            <when state="sawGI" output="𒄀"/>
+            <when state="sawGU" output="𒄖"/>
+            <when state="sawGV" output="𒄥"/>
+            <when state="sawHA" output="𒄩"/>
+            <when state="sawHE" output="𒄭"/>
+            <when state="sawHI" output="𒄭"/>
+            <when state="sawHU" output="𒄷"/>
+            <when state="sawHV" output="𒄯"/>
+            <when state="sawI" output="𒄿"/>
+            <when state="sawKA" output="𒅗"/>
+            <when state="sawKE" output="𒆠"/>
+            <when state="sawKI" output="𒆠"/>
+            <when state="sawKU" output="𒆪"/>
+            <when state="sawKV" output="𒆳"/>
+            <when state="sawL" output="𒑱"/>
+            <when state="sawLA" output="𒆷"/>
+            <when state="sawLE" output="𒇷"/>
+            <when state="sawLI" output="𒇷"/>
+            <when state="sawLU" output="𒁳"/>
+            <when state="sawMA" output="𒈠"/>
+            <when state="sawME" output="𒈨"/>
+            <when state="sawMI" output="𒈪"/>
+            <when state="sawMU" output="𒈬"/>
+            <when state="sawMV" output="𒄯"/>
+            <when state="sawNA" output="𒈾"/>
+            <when state="sawNE" output="𒉈"/>
+            <when state="sawNI" output="𒉌"/>
+            <when state="sawNU" output="𒉡"/>
+            <when state="sawPA" output="𒉺"/>
+            <when state="sawPI" output="𒉿"/>
+            <when state="sawPU" output="𒁍"/>
+            <when state="sawPV" output="𒁓"/>
+            <when state="sawRA" output="𒊏"/>
+            <when state="sawRE" output="𒊑"/>
+            <when state="sawRI" output="𒊑"/>
+            <when state="sawRU" output="𒊒"/>
+            <when state="sawSA" output="𒊓"/>
+            <when state="sawSE" output="𒊺"/>
+            <when state="sawSI" output="𒋛"/>
+            <when state="sawSU" output="𒋗"/>
+            <when state="sawSV" output="𒋩"/>
+            <when state="sawTA" output="𒋫"/>
+            <when state="sawTE" output="𒋼"/>
+            <when state="sawTI" output="𒋾"/>
+            <when state="sawTU" output="𒌅"/>
+            <when state="sawTV" output="𒌉"/>
+            <when state="sawU" output="𒌋"/>
+            <when state="sawV" output="𒌨"/>
+            <when state="sawVI" output="𒌵"/>
+            <when state="sawVU" output="𒌷"/>
+            <when state="sawWA" output="𒉿"/>
+            <when state="sawWE" output="𒊄"/>
+            <when state="sawWI" output="𒉿"/>
+            <when state="sawWU" output="𒊇"/>
+            <when state="sawYA" output="𒅀"/>
+            <when state="sawZA" output="𒍝"/>
+            <when state="sawZE" output="𒍣"/>
+            <when state="sawZI" output="𒍣"/>
+            <when state="sawZU" output="𒍪"/>
+        </action>
+        <action id="0">
+            <when state="none" next="s1"/>
+        </action>
+        <action id="1">
+            <when state="none" next="s2"/>
+        </action>
+        <action id="10">
+            <when state="none" output="O"/>
+            <when state="s1" output="Ó"/>
+            <when state="s2" output="Ò"/>
+        </action>
+        <action id="11">
+            <when state="none" output="U"/>
+            <when state="s1" output="Ú"/>
+            <when state="s2" output="Ù"/>
+            <when state="sawG" output="𒄘"/>
+            <when state="sawKU" output="𒆇"/>
+            <when state="sawWU" output="𒊈"/>
+        </action>
+        <action id="12">
+            <when state="none" output="Y"/>
+        </action>
+        <action id="14">
+            <when state="none" next="sawE"/>
+            <when state="SAWQ" next="sawQE"/>
+            <when state="s1" output="é"/>
+            <when state="s2" output="è"/>
+            <when state="sawB" next="sawBE"/>
+            <when state="sawC" next="sawCE"/>
+            <when state="sawD" next="sawDE"/>
+            <when state="sawG" next="sawGE"/>
+            <when state="sawGE" output="𒄁"/>
+            <when state="sawH" next="sawHE"/>
+            <when state="sawK" next="sawKE"/>
+            <when state="sawL" next="sawLE"/>
+            <when state="sawM" next="sawME"/>
+            <when state="sawN" next="sawNE"/>
+            <when state="sawNE" output="𒉍"/>
+            <when state="sawP" next="sawPE"/>
+            <when state="sawR" next="sawRE"/>
+            <when state="sawS" next="sawSE"/>
+            <when state="sawT" next="sawTE"/>
+            <when state="sawW" next="sawWE"/>
+            <when state="sawWE" output="𒊄"/>
+            <when state="sawZ" next="sawZE"/>
+        </action>
+        <action id="15">
+            <when state="none" next="sawI"/>
+            <when state="s1" output="í"/>
+            <when state="s2" output="ì"/>
+            <when state="sawB" next="sawBI"/>
+            <when state="sawC" next="sawCI"/>
+            <when state="sawCapR" output="𒌵"/>
+            <when state="sawD" next="sawDI"/>
+            <when state="sawG" next="sawGI"/>
+            <when state="sawH" next="sawHI"/>
+            <when state="sawI" output="𒅋"/>
+            <when state="sawK" next="sawKI"/>
+            <when state="sawKX" output="𒅮"/>
+            <when state="sawL" next="sawLI"/>
+            <when state="sawM" next="sawMI"/>
+            <when state="sawN" next="sawNI"/>
+            <when state="sawP" next="sawPI"/>
+            <when state="sawR" next="sawRI"/>
+            <when state="sawRI" output="𒁺"/>
+            <when state="sawS" next="sawSI"/>
+            <when state="sawT" next="sawTI"/>
+            <when state="sawTI" output="𒁹"/>
+            <when state="sawV" next="sawVI"/>
+            <when state="sawW" next="sawWI"/>
+            <when state="sawWI" output="𒊅"/>
+            <when state="sawZ" next="sawZI"/>
+        </action>
+        <action id="16">
+            <when state="none" next="sawN"/>
+            <when state="sawA" output="𒀭"/>
+            <when state="sawB" output="𒆹"/>
+            <when state="sawBA" output="𒌷"/>
+            <when state="sawBV" output="𒌓"/>
+            <when state="sawC" output="𒋒"/>
+            <when state="sawCE" output="𒊿"/>
+            <when state="sawCU" output="𒋗𒆸"/>
+            <when state="sawD" output="𒆜𒁍"/>
+            <when state="sawDA" output="𒆗"/>
+            <when state="sawDI" output="𒁷"/>
+            <when state="sawDU" output="𒂄"/>
+            <when state="sawDV" output="𒆪"/>
+            <when state="sawE" output="𒂗"/>
+            <when state="sawG" output="𒆠𒉈"/>
+            <when state="sawGA" output="𒃶"/>
+            <when state="sawGE" output="𒁺"/>
+            <when state="sawGI" output="𒁺"/>
+            <when state="sawGU" output="𒄘𒌦"/>
+            <when state="sawGV" output="𒄧"/>
+            <when state="sawI" output="𒅔"/>
+            <when state="sawKI" output="𒆥"/>
+            <when state="sawKU" output="𒆲"/>
+            <when state="sawKX" output="𒅻"/>
+            <when state="sawLU" output="𒋆"/>
+            <when state="sawM" output="𒊩"/>
+            <when state="sawMA" output="𒌋𒌋"/>
+            <when state="sawMU" output="𒁵"/>
+            <when state="sawN" output="𒉭"/>
+            <when state="sawNI" output="𒊩𒌆"/>
+            <when state="sawNU" output="𒉣"/>
+            <when state="sawPA" output="𒉼"/>
+            <when state="sawR" output="𒂞"/>
+            <when state="sawRI" output="𒆸"/>
+            <when state="sawSI" output="𒌍"/>
+            <when state="sawSU" output="𒁁"/>
+            <when state="sawTA" output="𒆗"/>
+            <when state="sawTE" output="𒋼"/>
+            <when state="sawTI" output="𒁷"/>
+            <when state="sawU" output="𒌦"/>
+        </action>
+        <action id="17">
+            <when state="none" output="o"/>
+            <when state="s1" output="ó"/>
+            <when state="s2" output="ò"/>
+        </action>
+        <action id="18">
+            <when state="none" next="sawU"/>
+            <when state="SAWQ" next="SAWQU"/>
+            <when state="s1" output="ú"/>
+            <when state="s2" output="ù"/>
+            <when state="sawB" next="sawBU"/>
+            <when state="sawC" next="sawCU"/>
+            <when state="sawCapR" output="𒌷"/>
+            <when state="sawD" next="sawDU"/>
+            <when state="sawG" next="sawGU"/>
+            <when state="sawH" next="sawHU"/>
+            <when state="sawK" next="sawKU"/>
+            <when state="sawKX" output="𒆇"/>
+            <when state="sawL" next="sawLU"/>
+            <when state="sawM" next="sawMU"/>
+            <when state="sawN" next="sawNU"/>
+            <when state="sawP" next="sawPU"/>
+            <when state="sawR" next="sawRU"/>
+            <when state="sawS" next="sawSU"/>
+            <when state="sawT" next="sawTU"/>
+            <when state="sawV" next="sawVU"/>
+            <when state="sawW" next="sawWU"/>
+            <when state="sawWU" output="𒊇"/>
+            <when state="sawZ" next="sawZU"/>
+        </action>
+        <action id="19">
+            <when state="none" next="sawY"/>
+        </action>
+        <action id="5">
+            <when state="none" output=" "/>
+            <when state="s1" output="´"/>
+            <when state="s2" output="`"/>
+        </action>
+        <action id="6">
+            <when state="none" output="A"/>
+            <when state="s1" output="Á"/>
+            <when state="s2" output="À"/>
+            <when state="sawK" output="𒉈"/>
+            <when state="sawKA" output="𒉈"/>
+        </action>
+        <action id="8">
+            <when state="none" output="I"/>
+            <when state="s1" output="Í"/>
+            <when state="s2" output="Ì"/>
+            <when state="sawH" output="𒃶"/>
+            <when state="sawL" output="lI"/>
+            <when state="sawM" output="𒊩"/>
+            <when state="sawP" output="𒁉"/>
+            <when state="sawZ" output="𒍢"/>
+        </action>
+        <action id="9">
+            <when state="none" output="N"/>
+            <when state="sawA" output="𒀲"/>
+            <when state="sawB" output="𒇅"/>
+            <when state="sawBA" output="𒁇"/>
+            <when state="sawBU" output="𒅮"/>
+            <when state="sawC" output="𒋗𒆸"/>
+            <when state="sawCE" output="𒄒"/>
+            <when state="sawCU" output="𒋗𒆸"/>
+            <when state="sawDA" output="𒆜"/>
+            <when state="sawE" output="𒋙𒀭"/>
+            <when state="sawGA" output="𒃷"/>
+            <when state="sawGI" output="𒍪"/>
+            <when state="sawGU" output="𒁯"/>
+            <when state="sawI" output="𒅗"/>
+            <when state="sawKA" output="𒃷"/>
+            <when state="sawKI" output="𒄯"/>
+            <when state="sawKU" output="𒉺"/>
+            <when state="sawKX" output="𒅥"/>
+            <when state="sawLU" output="𒋆"/>
+            <when state="sawME" output="𒈨"/>
+            <when state="sawMU" output="𒉽𒉽"/>
+            <when state="sawNI" output="𒉒"/>
+            <when state="sawNU" output="𒂟"/>
+            <when state="sawRI" output="𒂟"/>
+            <when state="sawSI" output="𒌍"/>
+            <when state="sawTE" output="𒁷"/>
+            <when state="sawU" output="𒀔"/>
+        </action>
+        <action id=":">
+            <when state="none" output=":"/>
+            <when state="sawSI" output="𒃢"/>
+            <when state="sawU" output="𒄈"/>
+        </action>
+        <action id=";">
+            <when state="none" output=";"/>
+            <when state="sawA" output="𒄋"/>
+            <when state="sawBU" output="𒉽𒉽"/>
+            <when state="sawLA" output="𒋭"/>
+            <when state="sawSA" output="𒋡"/>
+            <when state="sawSI" output="𒋡"/>
+            <when state="sawTA" output="𒋾"/>
+        </action>
+        <action id="&#x003C;">
+            <when state="none" output="&#x003C;"/>
+            <when state="sawC" output="𒌋𒃶"/>
+        </action>
+        <action id="B">
+            <when state="none" output="B"/>
+            <when state="sawA" output="𒀖"/>
+            <when state="sawC" output="𒋆"/>
+            <when state="sawDA" output="𒋰"/>
+            <when state="sawDI" output="𒆪"/>
+            <when state="sawDU" output="𒂀"/>
+            <when state="sawE" output="𒂘"/>
+            <when state="sawG" output="𒋗"/>
+            <when state="sawGA" output="𒆏"/>
+            <when state="sawGI" output="𒉋"/>
+            <when state="sawGU" output="𒇷"/>
+            <when state="sawHA" output="𒇥"/>
+            <when state="sawHU" output="𒆏"/>
+            <when state="sawI" output="𒌈"/>
+            <when state="sawSI" output="𒉺𒇻"/>
+            <when state="sawSU" output="𒁻"/>
+            <when state="sawTI" output="𒊮𒀀𒋻"/>
+            <when state="sawU" output="𒁛"/>
+        </action>
+        <action id="C">
+            <when state="none" output="C"/>
+            <when state="sawA" output="𒀾"/>
+            <when state="sawBI" output="𒉾"/>
+            <when state="sawCE" output="𒋁"/>
+            <when state="sawCU" output="𒋙"/>
+            <when state="sawDA" output="𒁹"/>
+            <when state="sawE" output="𒀀𒌁"/>
+            <when state="sawG" output="𒊷"/>
+            <when state="sawGE" output="𒁹"/>
+            <when state="sawGI" output="𒁹"/>
+            <when state="sawGU" output="𒆬𒄀"/>
+            <when state="sawI" output="𒌋𒁯"/>
+            <when state="sawKA" output="𒁁"/>
+            <when state="sawKE" output="𒆟"/>
+            <when state="sawKI" output="𒌑"/>
+            <when state="sawMA" output="𒈧"/>
+            <when state="sawNI" output="𒄑"/>
+            <when state="sawPE" output="𒉾"/>
+            <when state="sawPI" output="𒉾"/>
+            <when state="sawSU" output="𒉌"/>
+            <when state="sawTA" output="𒁹"/>
+            <when state="sawTE" output="𒌨"/>
+            <when state="sawTI" output="𒌨"/>
+            <when state="sawU" output="𒁁"/>
+        </action>
+        <action id="D">
+            <when state="none" output="D"/>
+            <when state="sawA" output="𒌓"/>
+            <when state="sawCU" output="𒂈"/>
+            <when state="sawE" output="𒄠𒋡𒁓"/>
+            <when state="sawGA" output="𒃰"/>
+            <when state="sawGI" output="𒁍"/>
+            <when state="sawGU" output="𒄞"/>
+            <when state="sawHA" output="𒌓"/>
+            <when state="sawI" output="𒀀𒇉"/>
+            <when state="sawKI" output="𒋺"/>
+            <when state="sawM" output="𒁇𒂗𒆕"/>
+            <when state="sawN" output="𒉒"/>
+            <when state="sawNI" output="𒊺𒉀"/>
+            <when state="sawNU" output="𒅻"/>
+            <when state="sawPA" output="𒁁"/>
+            <when state="sawPI" output="𒁁"/>
+            <when state="sawU" output="𒁳"/>
+            <when state="sawV" output="𒍏"/>
+            <when state="sawZI" output="𒌆"/>
+        </action>
+        <action id="E">
+            <when state="none" output="E"/>
+            <when state="s1" output="É"/>
+            <when state="s2" output="È"/>
+            <when state="sawD" output="𒌤"/>
+            <when state="sawNE" output="𒉍"/>
+        </action>
+        <action id="F">
+            <when state="none" output="F"/>
+            <when state="sawLA" output="𒁻"/>
+        </action>
+        <action id="G">
+            <when state="none" output="G"/>
+            <when state="sawA" output="𒉘"/>
+            <when state="sawB" output="𒇅"/>
+            <when state="sawBU" output="𒇅"/>
+            <when state="sawDA" output="𒂼"/>
+            <when state="sawE" output="𒂕"/>
+            <when state="sawG" output="𒇥"/>
+            <when state="sawGI" output="𒈪"/>
+            <when state="sawGU" output="𒈖"/>
+            <when state="sawI" output="𒅆"/>
+            <when state="sawKI" output="𒆥"/>
+            <when state="sawL" output="𒆸"/>
+            <when state="sawLA" output="𒆠"/>
+            <when state="sawLU" output="𒆸"/>
+            <when state="sawN" output="𒆸"/>
+            <when state="sawNA" output="𒉀"/>
+            <when state="sawNI" output="𒃻"/>
+            <when state="sawRI" output="𒍮"/>
+            <when state="sawSA" output="𒋡𒋗𒃮"/>
+            <when state="sawSI" output="𒋠"/>
+            <when state="sawSU" output="𒁻"/>
+            <when state="sawTA" output="𒁖"/>
+            <when state="sawTU" output="𒌆"/>
+            <when state="sawU" output="𒌋𒅗"/>
+        </action>
+        <action id="H">
+            <when state="none" output="H"/>
+            <when state="sawB" output="𒂁𒋡𒁓"/>
+            <when state="sawCA" output="𒂄"/>
+            <when state="sawDE" output="𒌝"/>
+            <when state="sawSA" output="𒅖"/>
+            <when state="sawTU" output="𒈭"/>
+            <when state="sawZA" output="𒄩𒀀"/>
+        </action>
+        <action id="K">
+            <when state="none" output="K"/>
+            <when state="sawA" output="􀀆"/>
+            <when state="sawCI" output="𒆷"/>
+            <when state="sawCU" output="𒈛"/>
+            <when state="sawI" output="𒃷"/>
+            <when state="sawS" output="𒀬𒀬"/>
+            <when state="sawSA" output="𒊬"/>
+            <when state="sawSI" output="𒋠"/>
+            <when state="sawSU" output="𒈛"/>
+            <when state="sawT" output="𒆁"/>
+            <when state="sawTA" output="𒁖"/>
+            <when state="sawTU" output="𒌇"/>
+            <when state="sawU" output="𒂇"/>
+        </action>
+        <action id="L">
+            <when state="none" output="L"/>
+            <when state="sawA" output="𒀩"/>
+            <when state="sawBE" output="𒂗"/>
+            <when state="sawBI" output="𒉋"/>
+            <when state="sawBU" output="𒉽𒉽"/>
+            <when state="sawD" output="𒇺"/>
+            <when state="sawDA" output="𒉀"/>
+            <when state="sawDI" output="𒇺"/>
+            <when state="sawDU" output="𒇥"/>
+            <when state="sawE" output="𒅋"/>
+            <when state="sawGA" output="𒅅"/>
+            <when state="sawI" output="𒅍"/>
+            <when state="sawKA" output="𒃲"/>
+            <when state="sawKU" output="𒄢"/>
+            <when state="sawLI" output="𒆤"/>
+            <when state="sawPE" output="𒉋"/>
+            <when state="sawPI" output="𒉋"/>
+            <when state="sawSA" output="𒋡"/>
+            <when state="sawSI" output="𒋡"/>
+            <when state="sawSU" output="𒂘"/>
+            <when state="sawTU" output="𒇥"/>
+            <when state="sawU" output="𒉡"/>
+            <when state="sawZ" output="𒂟"/>
+            <when state="sawZI" output="𒋳"/>
+        </action>
+        <action id="M">
+            <when state="none" output="M"/>
+            <when state="sawA" output="𒂼"/>
+            <when state="sawC" output="𒌋𒃶"/>
+            <when state="sawCA" output="𒉚𒀀𒀭"/>
+            <when state="sawCU" output="𒋧"/>
+            <when state="sawD" output="𒌉"/>
+            <when state="sawDI" output="𒁶"/>
+            <when state="sawDU" output="𒌉"/>
+            <when state="sawE" output="𒅴"/>
+            <when state="sawG" output="𒊩𒆳"/>
+            <when state="sawGA" output="𒄰"/>
+            <when state="sawGE" output="𒊩𒆳"/>
+            <when state="sawGU" output="𒈝"/>
+            <when state="sawI" output="𒐌"/>
+            <when state="sawKU" output="𒉈"/>
+            <when state="sawL" output="𒋰"/>
+            <when state="sawLA" output="𒉈"/>
+            <when state="sawLI" output="𒋰"/>
+            <when state="sawNA" output="𒌆"/>
+            <when state="sawNI" output="𒄭"/>
+            <when state="sawNU" output="𒈝"/>
+            <when state="sawSA" output="𒉚𒀀𒈭"/>
+            <when state="sawSU" output="𒍮"/>
+            <when state="sawTA" output="𒁮"/>
+            <when state="sawTU" output="𒁺"/>
+            <when state="sawU" output="𒌢"/>
+        </action>
+        <action id="P">
+            <when state="none" output="P"/>
+            <when state="sawA" output="𒀳"/>
+            <when state="sawE" output="𒂁"/>
+            <when state="sawG" output="𒋗"/>
+            <when state="sawGA" output="𒆏"/>
+            <when state="sawSI" output="𒉺𒇻"/>
+            <when state="sawWI" output="𒊂"/>
+            <when state="sawWU" output="𒊃"/>
+        </action>
+        <action id="Q">
+            <when state="none" output="Q"/>
+            <when state="sawTA" output="𒁖"/>
+        </action>
+        <action id="R">
+            <when state="none" output="R"/>
+            <when state="sawA" output="𒀴"/>
+            <when state="sawB" output="𒁖"/>
+            <when state="sawBA" output="𒁈"/>
+            <when state="sawBI" output="𒌓"/>
+            <when state="sawBU" output="𒂘"/>
+            <when state="sawCA" output="𒄭"/>
+            <when state="sawDA" output="𒁰"/>
+            <when state="sawDI" output="𒋛𒀀"/>
+            <when state="sawDU" output="𒆪"/>
+            <when state="sawE" output="𒂟"/>
+            <when state="sawGI" output="𒄈"/>
+            <when state="sawGU" output="𒆗"/>
+            <when state="sawI" output="𒌷"/>
+            <when state="sawK" output="𒁷"/>
+            <when state="sawKI" output="𒊬"/>
+            <when state="sawKU" output="𒉽"/>
+            <when state="sawMA" output="𒀫"/>
+            <when state="sawMU" output="𒌘"/>
+            <when state="sawNI" output="𒍝𒂆"/>
+            <when state="sawPA" output="𒁇"/>
+            <when state="sawPI" output="𒂟"/>
+            <when state="sawSI" output="𒋓"/>
+            <when state="sawTA" output="𒄘𒐈"/>
+            <when state="sawTU" output="𒄙"/>
+            <when state="sawU" output="𒌫"/>
+            <when state="sawZA" output="𒉌"/>
+        </action>
+        <action id="S">
+            <when state="none" output="S"/>
+            <when state="sawDA" output="𒁹"/>
+            <when state="sawDU" output="𒀲𒅇"/>
+            <when state="sawE" output="𒃥"/>
+            <when state="sawGE" output="𒁹"/>
+            <when state="sawGI" output="𒄑"/>
+            <when state="sawI" output="𒄑"/>
+            <when state="sawK" output="𒁗"/>
+            <when state="sawKI" output="􀀇 "/>
+            <when state="sawN" output="𒉀"/>
+            <when state="sawNI" output="𒄑"/>
+            <when state="sawP" output="𒋃"/>
+            <when state="sawPA" output="𒊿"/>
+            <when state="sawPI" output="𒂷"/>
+            <when state="sawS" output="􀀀"/>
+            <when state="sawSI" output="􀀀"/>
+            <when state="sawTA" output="𒁹"/>
+            <when state="sawU" output="𒍑"/>
+        </action>
+        <action id="T">
+            <when state="none" output="T"/>
+            <when state="SAWQA" output="𒋗"/>
+            <when state="sawCI" output="𒋃"/>
+            <when state="sawGI" output="𒁍"/>
+            <when state="sawI" output="𒌗"/>
+            <when state="sawN" output="𒀴"/>
+            <when state="sawNA" output="𒊩"/>
+            <when state="sawNI" output="𒀴"/>
+            <when state="sawPA" output="𒁁"/>
+            <when state="sawPI" output="𒁁"/>
+            <when state="sawU" output="𒌓"/>
+        </action>
+        <action id="V">
+            <when state="none" output="V"/>
+            <when state="sawB" output="𒂘"/>
+            <when state="sawC" output="𒄒"/>
+            <when state="sawD" output="𒆪"/>
+            <when state="sawE" output="𒇉"/>
+            <when state="sawK" output="𒉽"/>
+            <when state="sawKX" output="􀀁"/>
+            <when state="sawM" output="𒌘"/>
+            <when state="sawT" output="𒄙"/>
+        </action>
+        <action id="X">
+            <when state="none" output="X"/>
+        </action>
+        <action id="Z">
+            <when state="none" output="Z"/>
+            <when state="sawA" output="𒉙"/>
+            <when state="sawE" output="􀀉"/>
+            <when state="sawI" output="𒉈"/>
+            <when state="sawU" output="𒍜"/>
+            <when state="sawZI" output="𒀾"/>
+        </action>
+        <action id="a">
+            <when state="none" next="sawA"/>
+            <when state="SAWQ" next="SAWQA"/>
+            <when state="s1" output="á"/>
+            <when state="s2" output="à"/>
+            <when state="sawB" next="sawBA"/>
+            <when state="sawC" next="sawCA"/>
+            <when state="sawD" next="sawDA"/>
+            <when state="sawG" next="sawGA"/>
+            <when state="sawH" next="sawHA"/>
+            <when state="sawK" next="sawKA"/>
+            <when state="sawKX" output="𒅘"/>
+            <when state="sawL" next="sawLA"/>
+            <when state="sawM" next="sawMA"/>
+            <when state="sawN" next="sawNA"/>
+            <when state="sawP" next="sawPA"/>
+            <when state="sawR" next="sawRA"/>
+            <when state="sawS" next="sawSA"/>
+            <when state="sawT" next="sawTA"/>
+            <when state="sawW" next="sawWA"/>
+            <when state="sawWA" output="𒊀"/>
+            <when state="sawY" next="sawYA"/>
+            <when state="sawZ" next="sawZA"/>
+        </action>
+        <action id="b">
+            <when state="none" next="sawB"/>
+            <when state="sawA" output="𒀊"/>
+            <when state="sawB" output="𒌓"/>
+            <when state="sawC" output="𒋆"/>
+            <when state="sawCA" output="𒉺𒅁"/>
+            <when state="sawCU" output="𒊒"/>
+            <when state="sawD" output="𒄵"/>
+            <when state="sawDA" output="𒁳"/>
+            <when state="sawDI" output="𒁳"/>
+            <when state="sawDU" output="𒁾"/>
+            <when state="sawE" output="𒅁"/>
+            <when state="sawG" output="𒉋"/>
+            <when state="sawGA" output="𒃮"/>
+            <when state="sawGI" output="𒄃"/>
+            <when state="sawGU" output="𒁺"/>
+            <when state="sawH" output="𒆕"/>
+            <when state="sawHA" output="𒆸"/>
+            <when state="sawHU" output="𒄽"/>
+            <when state="sawI" output="𒅁"/>
+            <when state="sawKA" output="𒆏"/>
+            <when state="sawKI" output="𒄒"/>
+            <when state="sawKU" output="𒁺"/>
+            <when state="sawKX" output="𒅞"/>
+            <when state="sawL" output="𒅇"/>
+            <when state="sawLI" output="𒈜"/>
+            <when state="sawLU" output="𒈜"/>
+            <when state="sawNA" output="𒀮"/>
+            <when state="sawNI" output="𒊋"/>
+            <when state="sawPA" output="𒉽"/>
+            <when state="sawRI" output="𒆗"/>
+            <when state="sawS" output="𒉺𒇻"/>
+            <when state="sawSA" output="𒉺𒅁"/>
+            <when state="sawT" output="𒍏𒉄"/>
+            <when state="sawTA" output="𒋰"/>
+            <when state="sawTI" output="𒆤"/>
+            <when state="sawTU" output="𒁾"/>
+            <when state="sawU" output="𒌒"/>
+            <when state="sawZ" output="𒌓𒅗𒁇"/>
+            <when state="sawZA" output="𒂟"/>
+        </action>
+        <action id="c">
+            <when state="none" next="sawC"/>
+            <when state="sawA" output="𒀸"/>
+            <when state="sawB" output="𒌷𒍏"/>
+            <when state="sawBI" output="𒄫"/>
+            <when state="sawC" output="𒑚"/>
+            <when state="sawCE" output="𒋀"/>
+            <when state="sawDI" output="𒁹"/>
+            <when state="sawE" output="𒌍"/>
+            <when state="sawG" output="𒃽"/>
+            <when state="sawGA" output="𒁉"/>
+            <when state="sawGI" output="𒄑"/>
+            <when state="sawGV" output="𒆗"/>
+            <when state="sawHA" output="𒋻"/>
+            <when state="sawHU" output="𒄭𒄊"/>
+            <when state="sawI" output="𒅖"/>
+            <when state="sawK" output="𒁾"/>
+            <when state="sawKA" output="𒁉"/>
+            <when state="sawKI" output="𒆧"/>
+            <when state="sawKU" output="𒋢"/>
+            <when state="sawKV" output="𒆯"/>
+            <when state="sawKX" output="𒆁"/>
+            <when state="sawLI" output="𒇺"/>
+            <when state="sawM" output="𒄷"/>
+            <when state="sawMA" output="𒁇"/>
+            <when state="sawME" output="𒈨𒌍"/>
+            <when state="sawMI" output="𒈩"/>
+            <when state="sawMU" output="𒈲"/>
+            <when state="sawN" output="𒀲"/>
+            <when state="sawNE" output="𒌋𒌋"/>
+            <when state="sawNI" output="𒌋𒌋"/>
+            <when state="sawPA" output="𒄫"/>
+            <when state="sawPE" output="𒄫"/>
+            <when state="sawPI" output="𒄫"/>
+            <when state="sawRA" output="𒆜"/>
+            <when state="sawRI" output="𒊕"/>
+            <when state="sawTA" output="𒌨"/>
+            <when state="sawTI" output="𒁹"/>
+            <when state="sawTU" output="𒆪"/>
+            <when state="sawU" output="𒍑"/>
+            <when state="sawV" output="𒅁"/>
+        </action>
+        <action id="d">
+            <when state="none" next="sawD"/>
+            <when state="sawA" output="𒀜"/>
+            <when state="sawBA" output="𒁁"/>
+            <when state="sawCA" output="𒆳"/>
+            <when state="sawCE" output="𒋃"/>
+            <when state="sawCI" output="𒋃"/>
+            <when state="sawDI" output="𒅎"/>
+            <when state="sawE" output="𒀉"/>
+            <when state="sawG" output="𒄇"/>
+            <when state="sawGA" output="𒃰"/>
+            <when state="sawGU" output="𒄞"/>
+            <when state="sawH" output="𒉺"/>
+            <when state="sawHA" output="𒉺"/>
+            <when state="sawI" output="𒀉"/>
+            <when state="sawK" output="𒆟"/>
+            <when state="sawKA" output="𒃰"/>
+            <when state="sawKI" output="𒆤"/>
+            <when state="sawKU" output="𒋻"/>
+            <when state="sawM" output="𒁇"/>
+            <when state="sawMU" output="𒄷𒄭"/>
+            <when state="sawN" output="𒃻"/>
+            <when state="sawNI" output="𒊺𒉀"/>
+            <when state="sawNU" output="𒈿"/>
+            <when state="sawPA" output="𒉻"/>
+            <when state="sawRA" output="𒋥"/>
+            <when state="sawSE" output="𒈺"/>
+            <when state="sawSU" output="𒋤"/>
+            <when state="sawTU" output="𒌅"/>
+            <when state="sawU" output="𒌓"/>
+            <when state="sawV" output="𒍏"/>
+            <when state="sawVU" output="𒍏"/>
+        </action>
+        <action id="f">
+            <when state="none" output="f"/>
+            <when state="sawLA" output="𒈛"/>
+            <when state="sawSI" output="𒉺𒅁"/>
+        </action>
+        <action id="g">
+            <when state="none" next="sawG"/>
+            <when state="sawA" output="𒀝"/>
+            <when state="sawB" output="𒆹"/>
+            <when state="sawC" output="𒌋𒃶"/>
+            <when state="sawCA" output="𒊕"/>
+            <when state="sawD" output="𒂂"/>
+            <when state="sawDA" output="𒁖"/>
+            <when state="sawDI" output="𒉌"/>
+            <when state="sawDU" output="𒂁"/>
+            <when state="sawE" output="𒅅"/>
+            <when state="sawG" output="𒃌"/>
+            <when state="sawGA" output="𒆕"/>
+            <when state="sawGI" output="𒈪𒉭"/>
+            <when state="sawGU" output="𒍝𒄢"/>
+            <when state="sawI" output="𒅅"/>
+            <when state="sawK" output="􀀃"/>
+            <when state="sawKU" output="𒆬"/>
+            <when state="sawKX" output="􀀃"/>
+            <when state="sawL" output="𒈗"/>
+            <when state="sawLA" output="𒆸"/>
+            <when state="sawLI" output="𒌨"/>
+            <when state="sawLU" output="𒁳"/>
+            <when state="sawM" output="𒋞"/>
+            <when state="sawMU" output="𒈮"/>
+            <when state="sawN" output="𒈖"/>
+            <when state="sawNA" output="𒅘"/>
+            <when state="sawNI" output="𒊺"/>
+            <when state="sawPA" output="𒄷"/>
+            <when state="sawS" output="𒋃"/>
+            <when state="sawSA" output="𒊕"/>
+            <when state="sawSI" output="𒋝"/>
+            <when state="sawSU" output="𒆹"/>
+            <when state="sawTA" output="𒋳"/>
+            <when state="sawU" output="𒊌"/>
+            <when state="sawZA" output="𒍠"/>
+        </action>
+        <action id="h">
+            <when state="none" next="sawH"/>
+            <when state="sawA" output="𒄴"/>
+            <when state="sawB" output="𒂁"/>
+            <when state="sawBA" output="𒂁"/>
+            <when state="sawCA" output="𒋚"/>
+            <when state="sawD" output="𒉀"/>
+            <when state="sawDA" output="𒈭"/>
+            <when state="sawDI" output="𒉏"/>
+            <when state="sawDU" output="𒃮"/>
+            <when state="sawE" output="𒄴"/>
+            <when state="sawH" output="𒈢"/>
+            <when state="sawI" output="𒄴"/>
+            <when state="sawLU" output="𒈛"/>
+            <when state="sawM" output="𒈬"/>
+            <when state="sawMA" output="𒈤"/>
+            <when state="sawMU" output="𒈬"/>
+            <when state="sawPA" output="𒈜"/>
+            <when state="sawS" output="𒋦"/>
+            <when state="sawSA" output="𒋚"/>
+            <when state="sawTA" output="𒈭"/>
+            <when state="sawU" output="𒄴"/>
+        </action>
+        <action id="j">
+            <when state="none" output="j"/>
+            <when state="sawPE" output="𒈠"/>
+        </action>
+        <action id="k">
+            <when state="none" next="sawK"/>
+            <when state="sawA" output="𒀝"/>
+            <when state="sawC" output="𒅆𒆕"/>
+            <when state="sawCA" output="𒊕"/>
+            <when state="sawCI" output="𒂖"/>
+            <when state="sawDA" output="𒁖"/>
+            <when state="sawE" output="𒅅"/>
+            <when state="sawG" output="𒇻𒄾𒆲"/>
+            <when state="sawI" output="𒅅"/>
+            <when state="sawK" output="𒆜"/>
+            <when state="sawKA" output="𒆕"/>
+            <when state="sawKX" output="𒅯"/>
+            <when state="sawLI" output="𒌨"/>
+            <when state="sawM" output="𒉺𒁽"/>
+            <when state="sawN" output="𒉺𒌆"/>
+            <when state="sawS" output="𒀬"/>
+            <when state="sawSA" output="𒊕"/>
+            <when state="sawSI" output="𒂖"/>
+            <when state="sawSU" output="𒈛"/>
+            <when state="sawT" output="𒆪"/>
+            <when state="sawTU" output="𒌇"/>
+            <when state="sawU" output="𒊌"/>
+            <when state="sawZA" output="𒍠"/>
+        </action>
+        <action id="l">
+            <when state="none" next="sawL"/>
+            <when state="sawA" output="𒀠"/>
+            <when state="sawB" output="𒁆"/>
+            <when state="sawBA" output="𒁄"/>
+            <when state="sawBI" output="𒉈"/>
+            <when state="sawCA" output="𒊩"/>
+            <when state="sawCU" output="𒂄"/>
+            <when state="sawD" output="𒀸"/>
+            <when state="sawDA" output="𒊑"/>
+            <when state="sawDI" output="𒀸"/>
+            <when state="sawDU" output="𒌋𒌆"/>
+            <when state="sawE" output="𒂖"/>
+            <when state="sawG" output="𒄃"/>
+            <when state="sawGA" output="𒃲"/>
+            <when state="sawGE" output="𒄃"/>
+            <when state="sawGI" output="𒄃"/>
+            <when state="sawGU" output="𒄢"/>
+            <when state="sawH" output="𒈛"/>
+            <when state="sawHA" output="𒄬"/>
+            <when state="sawHU" output="𒅆𒌨"/>
+            <when state="sawI" output="𒅋"/>
+            <when state="sawK" output="𒆠𒌓"/>
+            <when state="sawKA" output="𒆗"/>
+            <when state="sawKU" output="𒆰"/>
+            <when state="sawKX" output="􀀄"/>
+            <when state="sawL" output="𒈗"/>
+            <when state="sawLA" output="𒇲"/>
+            <when state="sawLI" output="𒇸"/>
+            <when state="sawLU" output="􀀊"/>
+            <when state="sawMA" output="𒂷"/>
+            <when state="sawME" output="𒅖"/>
+            <when state="sawMI" output="𒅖"/>
+            <when state="sawMU" output="𒀯"/>
+            <when state="sawPA" output="𒁄"/>
+            <when state="sawPE" output="𒉈"/>
+            <when state="sawPI" output="𒉈"/>
+            <when state="sawS" output="𒁲"/>
+            <when state="sawSA" output="𒊩"/>
+            <when state="sawSU" output="𒂄"/>
+            <when state="sawT" output="𒊮"/>
+            <when state="sawTA" output="𒊑"/>
+            <when state="sawTI" output="𒁁"/>
+            <when state="sawU" output="𒌌"/>
+            <when state="sawZ" output="𒌓"/>
+            <when state="sawZA" output="𒉌"/>
+            <when state="sawZI" output="𒉣"/>
+            <when state="sawZU" output="𒂄"/>
+        </action>
+        <action id="m">
+            <when state="none" next="sawM"/>
+            <when state="SAWQU" output="𒄣"/>
+            <when state="sawA" output="𒄠"/>
+            <when state="sawC" output="𒌋𒃶"/>
+            <when state="sawCA" output="𒌑"/>
+            <when state="sawCE" output="𒋆"/>
+            <when state="sawCI" output="𒋆"/>
+            <when state="sawCU" output="𒋳"/>
+            <when state="sawDA" output="𒁮"/>
+            <when state="sawDI" output="𒁴"/>
+            <when state="sawDU" output="𒌈"/>
+            <when state="sawE" output="𒅎"/>
+            <when state="sawG" output="𒁷𒌁"/>
+            <when state="sawGA" output="𒃵"/>
+            <when state="sawGI" output="𒁶"/>
+            <when state="sawGU" output="𒄣"/>
+            <when state="sawHU" output="𒈝"/>
+            <when state="sawI" output="𒅎"/>
+            <when state="sawKA" output="𒄰"/>
+            <when state="sawKU" output="𒄣"/>
+            <when state="sawKX" output="𒅴"/>
+            <when state="sawL" output="𒆗"/>
+            <when state="sawLA" output="𒇴"/>
+            <when state="sawLI" output="𒅆"/>
+            <when state="sawLU" output="𒈝"/>
+            <when state="sawN" output="𒆰"/>
+            <when state="sawNA" output="𒉆"/>
+            <when state="sawNI" output="𒉏"/>
+            <when state="sawNU" output="𒆰"/>
+            <when state="sawRU" output="𒀸"/>
+            <when state="sawS" output="𒂊𒌤"/>
+            <when state="sawSA" output="𒉓"/>
+            <when state="sawSI" output="𒉆"/>
+            <when state="sawSU" output="𒋳"/>
+            <when state="sawT" output="𒋼"/>
+            <when state="sawTA" output="𒌓"/>
+            <when state="sawTI" output="𒁴"/>
+            <when state="sawTU" output="𒌈"/>
+            <when state="sawU" output="𒌝"/>
+            <when state="sawZ" output="𒁾"/>
+            <when state="sawZU" output="𒍮"/>
+        </action>
+        <action id="p">
+            <when state="none" next="sawP"/>
+            <when state="sawA" output="𒀊"/>
+            <when state="sawB" output="𒋋"/>
+            <when state="sawCA" output="𒉺𒅁"/>
+            <when state="sawDU" output="𒁾"/>
+            <when state="sawE" output="𒅁"/>
+            <when state="sawG" output="𒋗"/>
+            <when state="sawHA" output="𒆸"/>
+            <when state="sawHU" output="𒄽"/>
+            <when state="sawI" output="𒅁"/>
+            <when state="sawKA" output="𒆏"/>
+            <when state="sawKI" output="𒄒"/>
+            <when state="sawKX" output="􀀂"/>
+            <when state="sawNA" output="𒀮"/>
+            <when state="sawPA" output="𒉽"/>
+            <when state="sawS" output="𒉺𒇻"/>
+            <when state="sawSA" output="𒉺𒅁"/>
+            <when state="sawSI" output="𒉺𒇻"/>
+            <when state="sawTA" output="𒋰"/>
+            <when state="sawTU" output="𒁾"/>
+            <when state="sawU" output="𒌒"/>
+            <when state="sawWA" output="𒊁"/>
+            <when state="sawWI" output="𒊆"/>
+            <when state="sawWU" output="𒊃"/>
+        </action>
+        <action id="q">
+            <when state="none" next="SAWQ"/>
+            <when state="sawA" output="𒀝"/>
+            <when state="sawCA" output="𒊕"/>
+            <when state="sawDA" output="𒁖"/>
+            <when state="sawE" output="𒅅"/>
+            <when state="sawI" output="𒅅"/>
+            <when state="sawLI" output="𒌨"/>
+            <when state="sawSA" output="𒊕"/>
+            <when state="sawU" output="𒊌"/>
+        </action>
+        <action id="r">
+            <when state="none" next="sawR"/>
+            <when state="SAWQA" output="𒃼"/>
+            <when state="sawA" output="𒅈"/>
+            <when state="sawB" output="𒌓𒄒𒉣"/>
+            <when state="sawBA" output="𒁇"/>
+            <when state="sawBI" output="𒄵"/>
+            <when state="sawBU" output="𒁓"/>
+            <when state="sawCA" output="𒊬"/>
+            <when state="sawCI" output="𒋓"/>
+            <when state="sawCU" output="𒋩"/>
+            <when state="sawCapR" output="𒍏"/>
+            <when state="sawD" output="𒆪"/>
+            <when state="sawDA" output="𒄘𒐈"/>
+            <when state="sawDI" output="𒋛𒀀"/>
+            <when state="sawDU" output="𒄙"/>
+            <when state="sawE" output="𒅕"/>
+            <when state="sawG" output="𒄧"/>
+            <when state="sawGA" output="𒃻"/>
+            <when state="sawGI" output="𒄫"/>
+            <when state="sawGU" output="𒄥"/>
+            <when state="sawHA" output="𒄯"/>
+            <when state="sawHI" output="𒆟"/>
+            <when state="sawHU" output="𒄯"/>
+            <when state="sawI" output="𒅕"/>
+            <when state="sawK" output="𒆠𒆗𒁁"/>
+            <when state="sawKA" output="𒋼𒀀"/>
+            <when state="sawKI" output="𒄫"/>
+            <when state="sawKU" output="𒆳"/>
+            <when state="sawL" output="𒇬"/>
+            <when state="sawM" output="𒉺"/>
+            <when state="sawMA" output="𒈥"/>
+            <when state="sawMI" output="𒈖"/>
+            <when state="sawMU" output="𒄯"/>
+            <when state="sawN" output="𒉄"/>
+            <when state="sawNA" output="𒈜"/>
+            <when state="sawNI" output="𒉪"/>
+            <when state="sawPI" output="𒌓"/>
+            <when state="sawPU" output="𒁓"/>
+            <when state="sawSA" output="𒊬"/>
+            <when state="sawSI" output="𒋓"/>
+            <when state="sawSU" output="𒋩"/>
+            <when state="sawT" output="𒁰"/>
+            <when state="sawTA" output="𒋻"/>
+            <when state="sawTE" output="𒌁"/>
+            <when state="sawTI" output="𒌁"/>
+            <when state="sawTU" output="𒌉"/>
+            <when state="sawU" output="𒌨"/>
+            <when state="sawZ" output="𒊕𒉺𒆸"/>
+            <when state="sawZA" output="𒇡"/>
+            <when state="sawZU" output="𒀫"/>
+        </action>
+        <action id="s">
+            <when state="none" next="sawS"/>
+            <when state="sawA" output="𒀸"/>
+            <when state="sawBI" output="𒄫"/>
+            <when state="sawDI" output="𒁹"/>
+            <when state="sawE" output="𒌍"/>
+            <when state="sawG" output="𒄑𒈪"/>
+            <when state="sawGA" output="𒁉"/>
+            <when state="sawHA" output="𒋻"/>
+            <when state="sawI" output="𒅖"/>
+            <when state="sawK" output="𒆦"/>
+            <when state="sawKA" output="𒁉"/>
+            <when state="sawKI" output="𒆧"/>
+            <when state="sawKX" output="𒅾"/>
+            <when state="sawLI" output="𒇺"/>
+            <when state="sawMA" output="𒉺𒁽"/>
+            <when state="sawME" output="𒈨𒌍"/>
+            <when state="sawMI" output="𒈩"/>
+            <when state="sawN" output="𒊺𒉀"/>
+            <when state="sawNI" output="𒊺𒉀"/>
+            <when state="sawNU" output="𒉭"/>
+            <when state="sawP" output="𒂼"/>
+            <when state="sawPA" output="𒄫"/>
+            <when state="sawPI" output="𒄫"/>
+            <when state="sawRI" output="𒊕"/>
+            <when state="sawSE" output="𒋀"/>
+            <when state="sawSI" output="𒋀"/>
+            <when state="sawTI" output="𒁹"/>
+            <when state="sawU" output="𒍑"/>
+        </action>
+        <action id="t">
+            <when state="none" next="sawT"/>
+            <when state="sawA" output="𒀜"/>
+            <when state="sawC" output="𒋥"/>
+            <when state="sawCI" output="𒋃"/>
+            <when state="sawE" output="𒀉"/>
+            <when state="sawG" output="𒃾"/>
+            <when state="sawGA" output="𒃰"/>
+            <when state="sawGI" output="𒁍"/>
+            <when state="sawHA" output="𒉺"/>
+            <when state="sawI" output="𒀉"/>
+            <when state="sawKA" output="𒃰"/>
+            <when state="sawL" output="𒁤"/>
+            <when state="sawMI" output="𒁁"/>
+            <when state="sawN" output="𒍑"/>
+            <when state="sawNI" output="𒍑"/>
+            <when state="sawRA" output="𒋥"/>
+            <when state="sawU" output="𒌓"/>
+            <when state="sawV" output="𒅁"/>
+        </action>
+        <action id="v">
+            <when state="none" next="sawV"/>
+            <when state="sawB" next="sawBV"/>
+            <when state="sawC" next="sawCV"/>
+            <when state="sawD" next="sawDV"/>
+            <when state="sawG" next="sawGV"/>
+            <when state="sawGU" output="𒆏"/>
+            <when state="sawH" next="sawHV"/>
+            <when state="sawK" next="sawKV"/>
+            <when state="sawKX" output="􀀁"/>
+            <when state="sawM" next="sawMV"/>
+            <when state="sawMU" output="𒄯"/>
+            <when state="sawP" next="sawPV"/>
+            <when state="sawS" next="sawSV"/>
+            <when state="sawT" next="sawTV"/>
+        </action>
+        <action id="w">
+            <when state="none" next="sawW"/>
+        </action>
+        <action id="x">
+            <when state="none" output="x"/>
+            <when state="sawCE" output="𒅊"/>
+            <when state="sawK" next="sawKX"/>
+            <when state="sawKU" output="𒁺"/>
+            <when state="sawKV" output="𒁺"/>
+            <when state="sawPA" output="𒉻"/>
+            <when state="sawU" output="𒉺"/>
+        </action>
+        <action id="z">
+            <when state="none" next="sawZ"/>
+            <when state="sawA" output="𒊍"/>
+            <when state="sawBI" output="𒁉"/>
+            <when state="sawE" output="𒄑"/>
+            <when state="sawG" output="𒉺𒀭"/>
+            <when state="sawGA" output="𒄤"/>
+            <when state="sawGU" output="𒈝"/>
+            <when state="sawHU" output="𒈝"/>
+            <when state="sawI" output="𒄑"/>
+            <when state="sawP" output="𒌋𒌋"/>
+            <when state="sawU" output="𒊻"/>
+        </action>
+        <action id="©">
+            <when state="none" output="©"/>
+            <when state="sawA" output="𒁾"/>
+            <when state="sawDU" output="𒄭"/>
+            <when state="sawE" output="𒉘"/>
+            <when state="sawGI" output="𒇀"/>
+            <when state="sawI" output="𒉘"/>
+            <when state="sawL" output="𒋈"/>
+            <when state="sawLA" output="𒆸"/>
+            <when state="sawNI" output="𒆸"/>
+            <when state="sawSA" output="𒉺"/>
+            <when state="sawSI" output="𒉺"/>
+            <when state="sawTE" output="𒋼"/>
+            <when state="sawU" output="𒌦"/>
+        </action>
+        <action id="¬">
+            <when state="none" output="¬"/>
+            <when state="sawA" output="𒄋"/>
+            <when state="sawB" output="𒉽𒉽"/>
+            <when state="sawBA" output="𒈨"/>
+            <when state="sawBU" output="𒉽𒉽"/>
+            <when state="sawDI" output="𒇺"/>
+            <when state="sawGA" output="𒌷"/>
+            <when state="sawGI" output="𒅲"/>
+            <when state="sawHU" output="𒄒"/>
+            <when state="sawI" output="𒀭"/>
+            <when state="sawLA" output="𒋭"/>
+            <when state="sawSA" output="𒋡"/>
+            <when state="sawSI" output="𒋡"/>
+            <when state="sawTA" output="𒋾"/>
+            <when state="sawTI" output="𒋾"/>
+            <when state="sawU" output="𒄒"/>
+        </action>
+        <action id="®">
+            <when state="none" output="®"/>
+            <when state="sawA" output="𒄯"/>
+            <when state="sawBA" output="𒁖"/>
+            <when state="sawBU" output="𒌋"/>
+            <when state="sawCA" output="𒆟"/>
+            <when state="sawCE" output="𒆟"/>
+            <when state="sawCI" output="𒆟"/>
+            <when state="sawDA" output="𒁰"/>
+            <when state="sawDU" output="𒀲𒀴"/>
+            <when state="sawE" output="𒀴"/>
+            <when state="sawGA" output="𒃼"/>
+            <when state="sawGI" output="𒄊"/>
+            <when state="sawI" output="𒀴"/>
+            <when state="sawKA" output="𒃼"/>
+            <when state="sawKI" output="𒆸"/>
+            <when state="sawKU" output="𒄥"/>
+            <when state="sawL" output="𒄒"/>
+            <when state="sawNA" output="𒉪"/>
+            <when state="sawP" output="𒊌"/>
+            <when state="sawPA" output="𒊌"/>
+            <when state="sawSA" output="𒆟"/>
+            <when state="sawSI" output="𒆟"/>
+            <when state="sawSU" output="𒄯"/>
+            <when state="sawTU" output="𒉣𒇬"/>
+            <when state="sawU" output="𒃡"/>
+        </action>
+        <action id="µ">
+            <when state="none" output="µ"/>
+            <when state="sawA" output="𒀀𒀊"/>
+            <when state="sawCA" output="𒉓"/>
+            <when state="sawDI" output="𒊐𒃵"/>
+            <when state="sawE" output="𒉘"/>
+            <when state="sawI" output="𒅊"/>
+            <when state="sawKI" output="𒁍"/>
+            <when state="sawSA" output="𒉓"/>
+            <when state="sawTU" output="𒉐"/>
+            <when state="sawU" output="𒍏𒁕"/>
+        </action>
+        <action id="¸">
+            <when state="none" output="¸"/>
+            <when state="sawE" output="􀀉"/>
+            <when state="sawU" output="𒍚"/>
+        </action>
+        <action id="Â">
+            <when state="none" output="Â"/>
+            <when state="sawA" output="𒀫"/>
+            <when state="sawDI" output="𒉽𒉽"/>
+            <when state="sawI" output="𒁺"/>
+            <when state="sawKU" output="𒉺"/>
+            <when state="sawKV" output="𒉻"/>
+            <when state="sawLE" output="𒇷 "/>
+            <when state="sawRI" output="𒁽"/>
+            <when state="sawSI" output="𒈪𒉭"/>
+        </action>
+        <action id="Ç">
+            <when state="none" output="Ç"/>
+            <when state="sawA" output="𒀿"/>
+            <when state="sawE" output="𒅖"/>
+            <when state="sawI" output="𒄑"/>
+            <when state="sawKA" output="𒁽"/>
+            <when state="sawKI" output="𒌑𒄈"/>
+            <when state="sawKU" output="𒅖"/>
+            <when state="sawMU" output="𒋀"/>
+        </action>
+        <action id="Í">
+            <when state="none" output="Í"/>
+            <when state="sawA" output="𒐋"/>
+            <when state="sawCE" output="𒂞"/>
+            <when state="sawE" output="𒅖"/>
+            <when state="sawHA" output="𒍮"/>
+            <when state="sawK" output="𒆨"/>
+            <when state="sawKA" output="𒋃"/>
+            <when state="sawKI" output="𒆨"/>
+            <when state="sawU" output="𒇇"/>
+        </action>
+        <action id="Î">
+            <when state="none" output="Î"/>
+            <when state="sawC" output="𒂈"/>
+            <when state="sawGU" output="𒅎𒈨"/>
+            <when state="sawMU" output="𒆪𒌋𒆕"/>
+            <when state="sawSU" output="𒁍"/>
+        </action>
+        <action id="Ò">
+            <when state="none" output="Ò"/>
+            <when state="sawA" output=" 𒄋"/>
+            <when state="sawB" output="𒁆"/>
+            <when state="sawC" output="𒄙"/>
+            <when state="sawDU" output="𒁳"/>
+            <when state="sawGA" output="𒆗"/>
+            <when state="sawI" output="𒂖"/>
+            <when state="sawSA" output="𒋡"/>
+            <when state="sawSI" output="𒃢"/>
+            <when state="sawTI" output="𒀸"/>
+            <when state="sawU" output="𒄈"/>
+        </action>
+        <action id="Ó">
+            <when state="none" output="Ó"/>
+            <when state="sawB" output="𒂁𒋡𒁓𒈾"/>
+            <when state="sawD" output="𒉀"/>
+            <when state="sawLA" output="𒁻"/>
+            <when state="sawS" output="𒉈"/>
+            <when state="sawU" output="𒌋𒆕"/>
+        </action>
+        <action id="ß">
+            <when state="none" output="ß"/>
+            <when state="sawE" output="𒆗"/>
+            <when state="sawI" output="𒀊"/>
+            <when state="sawK" output="􀀇"/>
+            <when state="sawKI" output="𒌑"/>
+            <when state="sawP" output="𒊿"/>
+            <when state="sawPA" output="𒊿"/>
+            <when state="sawPE" output="𒈠"/>
+            <when state="sawPU" output="𒄫"/>
+            <when state="sawTA" output="𒀾"/>
+        </action>
+        <action id="å">
+            <when state="none" output="å"/>
+            <when state="sawKX" output="􀀅"/>
+            <when state="sawZ" output="𒍠"/>
+        </action>
+        <action id="ç">
+            <when state="none" output="ç"/>
+            <when state="sawA" output="𒀿"/>
+            <when state="sawE" output="𒀊"/>
+            <when state="sawGI" output="𒂀"/>
+            <when state="sawI" output="𒈨"/>
+            <when state="sawKU" output="𒌑"/>
+            <when state="sawMU" output="𒈹"/>
+            <when state="sawPE" output="𒈠"/>
+            <when state="sawPU" output="𒄫"/>
+            <when state="sawTA" output="𒀾"/>
+            <when state="sawU" output="𒌍"/>
+        </action>
+        <action id="ı">
+            <when state="none" output="ı"/>
+            <when state="sawG" output="𒉈𒄀"/>
+            <when state="sawKA" output="𒅘"/>
+            <when state="sawLI" output="𒅆"/>
+            <when state="sawSU" output="𒋳"/>
+            <when state="sawTU" output="𒌆"/>
+            <when state="sawU" output="𒇥"/>
+        </action>
+        <action id="œ">
+            <when state="none" output="œ"/>
+        </action>
+        <action id="ƒ">
+            <when state="none" output="ƒ"/>
+        </action>
+        <action id="ˇ">
+            <when state="none" output="ˇ"/>
+            <when state="sawCI" output="𒋃"/>
+            <when state="sawU" output="𒁟"/>
+        </action>
+        <action id="˙">
+            <when state="none" output="˙"/>
+            <when state="sawB" output="𒂁𒋡𒁓𒈾"/>
+            <when state="sawDA" output="𒉏"/>
+            <when state="sawDE" output="𒉏"/>
+            <when state="sawDI" output="𒉏"/>
+            <when state="sawLA" output="𒈛"/>
+        </action>
+        <action id="˚">
+            <when state="none" output="˚"/>
+            <when state="sawA" output="𒋃"/>
+            <when state="sawU" output="𒄾"/>
+        </action>
+        <action id="˛">
+            <when state="none" output="˛"/>
+            <when state="sawKA" output="𒁽"/>
+        </action>
+        <action id="˜">
+            <when state="none" output="˜"/>
+            <when state="sawBA" output="𒌉"/>
+            <when state="sawDU" output="𒂆"/>
+            <when state="sawE" output="𒇷"/>
+            <when state="sawGA" output="𒆳"/>
+            <when state="sawGI" output="𒆳"/>
+            <when state="sawGU" output="𒁯"/>
+            <when state="sawI" output="𒈹"/>
+            <when state="sawKV" output="𒂁"/>
+            <when state="sawMA" output="𒌋𒌋"/>
+            <when state="sawMI" output="𒌋𒌋"/>
+            <when state="sawMU" output="𒉽𒉽 "/>
+            <when state="sawSI" output="𒉆"/>
+            <when state="sawTU" output="𒂆"/>
+            <when state="sawU" output="𒂦"/>
+        </action>
+        <action id="˜ 1">
+            <when state="none" output="˜"/>
+            <when state="sawE" output="𒅔"/>
+            <when state="sawG" output="𒇇"/>
+            <when state="sawGI" output="𒁶"/>
+            <when state="sawGU" output="𒈝"/>
+            <when state="sawGV" output="𒂁"/>
+            <when state="sawI" output="𒂗"/>
+            <when state="sawKA" output="𒆍"/>
+            <when state="sawKU" output="𒄿𒁳"/>
+            <when state="sawME" output="𒌋𒌋"/>
+            <when state="sawMU" output="𒉽𒉽"/>
+            <when state="sawNI" output="𒊩𒆪"/>
+            <when state="sawTA" output="𒁷"/>
+            <when state="sawTE" output="𒋽"/>
+        </action>
+        <action id="˝">
+            <when state="none" output="˝"/>
+            <when state="sawCA" output="𒊮"/>
+            <when state="sawCE" output="𒉈"/>
+            <when state="sawDA" output="𒁗"/>
+            <when state="sawDU" output="𒅗"/>
+            <when state="sawNA" output="𒄤"/>
+            <when state="sawRI" output="𒊑"/>
+            <when state="sawSI" output="𒋞"/>
+            <when state="sawSU" output="𒋤"/>
+            <when state="sawTA" output="𒋺"/>
+            <when state="sawTI" output="𒋾"/>
+            <when state="sawU" output="𒁁"/>
+            <when state="sawZU" output="𒅲"/>
+        </action>
+        <action id="Ω">
+            <when state="none" output="Ω"/>
+            <when state="sawA" output="𒌆"/>
+            <when state="sawU" output="𒉙"/>
+        </action>
+        <action id="π">
+            <when state="none" output="π"/>
+            <when state="sawCI" output=""/>
+            <when state="sawSI" output="𒉺𒅁"/>
+        </action>
+        <action id="†">
+            <when state="none" output="†"/>
+            <when state="sawNA" output="𒊩𒍑"/>
+            <when state="sawNI" output="𒊩𒍑"/>
+            <when state="sawU" output="𒄰"/>
+        </action>
+        <action id="‰">
+            <when state="none" output="‰"/>
+            <when state="sawA" output="𒃥"/>
+            <when state="sawB" output="𒂘"/>
+            <when state="sawBA" output="𒉈"/>
+            <when state="sawBI" output="𒉈"/>
+            <when state="sawBU" output="𒉆"/>
+            <when state="sawCA" output="𒋓"/>
+            <when state="sawCE" output="𒉪"/>
+            <when state="sawCI" output="𒊬"/>
+            <when state="sawCU" output="𒇳𒊬"/>
+            <when state="sawDA" output="𒁰"/>
+            <when state="sawDU" output="𒀀"/>
+            <when state="sawE" output="𒄊"/>
+            <when state="sawGA" output="𒈖"/>
+            <when state="sawGI" output="𒌋𒀜"/>
+            <when state="sawGU" output="𒆸"/>
+            <when state="sawKI" output="𒅯"/>
+            <when state="sawM" output="𒌘"/>
+            <when state="sawMU" output="𒋞"/>
+            <when state="sawPA" output="𒆦"/>
+            <when state="sawSA" output="𒋓"/>
+            <when state="sawSI" output="𒋓"/>
+            <when state="sawSU" output="𒆠𒆕"/>
+            <when state="sawTI" output="𒉪"/>
+            <when state="sawU" output="𒄯"/>
+        </action>
+        <action id="∂">
+            <when state="none" output="∂"/>
+            <when state="sawB" output="𒌉"/>
+            <when state="sawBA" output="𒂦"/>
+            <when state="sawBI" output="𒆪"/>
+            <when state="sawC" output="𒂈"/>
+            <when state="sawCE" output="𒈺"/>
+            <when state="sawCU" output="𒂈"/>
+            <when state="sawI" output="𒈦𒄘𒃼"/>
+            <when state="sawPA" output="𒅆𒊒"/>
+            <when state="sawSE" output="𒈺"/>
+        </action>
+        <action id="√">
+            <when state="none" output="√"/>
+            <when state="sawB" output="𒌋"/>
+            <when state="sawBU" output="𒌋"/>
+            <when state="sawK" output="𒄥"/>
+            <when state="sawT" output="𒉣𒇬"/>
+        </action>
+        <action id="∫">
+            <when state="none" output="∫"/>
+            <when state="sawA" output="􀀈"/>
+            <when state="sawC" output="𒋆"/>
+            <when state="sawDU" output="𒄭"/>
+            <when state="sawGU" output="𒆏"/>
+            <when state="sawRA" output="𒈗"/>
+        </action>
+        <action id="◊">
+            <when state="none" output="◊"/>
+            <when state="sawB" output="𒉆"/>
+            <when state="sawC" output="𒇳𒊬"/>
+            <when state="sawD" output="𒀀"/>
+            <when state="sawDU" output="𒊿"/>
+            <when state="sawG" output="𒆸"/>
+            <when state="sawGU" output="𒆸"/>
+            <when state="sawM" output="𒌘"/>
+            <when state="sawS" output="𒆠𒆕"/>
+        </action>
+        <action id="">
+            <when state="none" output=""/>
+            <when state="sawSU" output="𒇸"/>
+            <when state="sawTA" output="𒋺"/>
+            <when state="sawTU" output="𒋳"/>
+            <when state="sawU" output="𒅞"/>
+        </action>
+        <action id="𒁹">
+            <when state="none" output="𒁹"/>
+            <when state="sawA" output="𒌓"/>
+            <when state="sawBV" output="𒂘"/>
+            <when state="sawCE" output="𒈺"/>
+            <when state="sawDU" output="𒅗"/>
+            <when state="sawGA" output="𒅗"/>
+            <when state="sawGU" output="𒈬"/>
+            <when state="sawGV" output="𒂊𒌈"/>
+            <when state="sawLI" output="𒇺"/>
+            <when state="sawNU" output="𒋓"/>
+            <when state="sawPA" output="𒉿"/>
+            <when state="sawRU" output="𒂗"/>
+            <when state="sawSE" output="𒈺"/>
+            <when state="sawSI" output="𒄀"/>
+            <when state="sawSV" output="𒊕"/>
+            <when state="sawTI" output="𒋼"/>
+            <when state="sawU" output="𒌷"/>
+            <when state="sawVU" output="𒂗"/>
+        </action>
+        <action id="𒁹 1">
+            <when state="none" output="𒁹"/>
+            <when state="SAWQA" output="𒋗"/>
+            <when state="sawME" output="𒀀"/>
+            <when state="sawMU" output="𒀀"/>
+        </action>
+        <action id="𒈫">
+            <when state="none" output="𒈫"/>
+            <when state="SAWQA" output="𒂵"/>
+            <when state="sawA" output="𒀉"/>
+            <when state="sawBE" output="𒁉"/>
+            <when state="sawBI" output="𒉈"/>
+            <when state="sawCA" output="𒃻"/>
+            <when state="sawCE" output="𒋛"/>
+            <when state="sawCI" output="𒋛"/>
+            <when state="sawCU" output="𒋙"/>
+            <when state="sawDA" output="𒋫"/>
+            <when state="sawDE" output="𒌤"/>
+            <when state="sawDU" output="𒌅"/>
+            <when state="sawDV" output="𒆪"/>
+            <when state="sawE" output="𒂍"/>
+            <when state="sawGA" output="𒂷"/>
+            <when state="sawGE" output="𒆤"/>
+            <when state="sawGI" output="𒆤"/>
+            <when state="sawGU" output="𒄘"/>
+            <when state="sawGV" output="𒃵"/>
+            <when state="sawHA" output="𒄭𒀀"/>
+            <when state="sawHE" output="𒃶"/>
+            <when state="sawHI" output="𒃶"/>
+            <when state="sawKA" output="𒆍"/>
+            <when state="sawKE" output="𒄀"/>
+            <when state="sawKI" output="𒄀"/>
+            <when state="sawKU" output="𒆇"/>
+            <when state="sawKV" output="𒉽"/>
+            <when state="sawLA" output="𒇲"/>
+            <when state="sawLE" output="𒉌"/>
+            <when state="sawLI" output="𒉌"/>
+            <when state="sawLU" output="𒇽"/>
+            <when state="sawMA" output="𒈣"/>
+            <when state="sawME" output="𒌋𒀜"/>
+            <when state="sawMI" output="𒊩"/>
+            <when state="sawMU" output="𒊬"/>
+            <when state="sawMV" output="𒌘"/>
+            <when state="sawN" output="𒉍"/>
+            <when state="sawNA" output="𒈿"/>
+            <when state="sawNE" output="𒉌"/>
+            <when state="sawNI" output="𒅎"/>
+            <when state="sawNU" output="𒈿"/>
+            <when state="sawPA" output="𒁀"/>
+            <when state="sawPE" output="𒁉"/>
+            <when state="sawPI" output="𒁉"/>
+            <when state="sawPU" output="𒇥"/>
+            <when state="sawRA" output="𒁺"/>
+            <when state="sawRE" output="𒌷"/>
+            <when state="sawRI" output="𒌷"/>
+            <when state="sawRU" output="𒆕"/>
+            <when state="sawSA" output="𒃻"/>
+            <when state="sawSE" output="𒋛"/>
+            <when state="sawSI" output="𒋧"/>
+            <when state="sawSU" output="𒋙"/>
+            <when state="sawTA" output="𒁕"/>
+            <when state="sawTV" output="𒄙"/>
+            <when state="sawU" output="𒌑"/>
+            <when state="sawV" output="𒌫"/>
+            <when state="sawWA" output="𒊀"/>
+            <when state="sawWI" output="𒊅"/>
+            <when state="sawZA" output="𒉌𒌓"/>
+            <when state="sawZE" output="𒍢"/>
+            <when state="sawZI" output="𒍢"/>
+            <when state="sawZU" output="𒅗"/>
+        </action>
+        <action id="𒌋">
+            <when state="none" output="𒌋"/>
+            <when state="sawDU" output="𒄭"/>
+            <when state="sawDV" output="𒊿"/>
+            <when state="sawGV" output="𒆥"/>
+            <when state="sawMV" output="𒌆"/>
+            <when state="sawNI" output="𒆸"/>
+            <when state="sawTU" output="𒄽"/>
+        </action>
+        <action id="𒌋𒁹">
+            <when state="none" output="𒌋𒁹"/>
+            <when state="sawE" output="𒁗"/>
+        </action>
+        <action id="𒐈">
+            <when state="none" output="𒐈"/>
+            <when state="sawA" output="𒉌"/>
+            <when state="sawBE" output="𒉌"/>
+            <when state="sawBI" output="𒉿"/>
+            <when state="sawBV" output="𒌋"/>
+            <when state="sawCA" output="𒊮"/>
+            <when state="sawCE" output="𒌆"/>
+            <when state="sawDA" output="𒆕"/>
+            <when state="sawDE" output="𒉈"/>
+            <when state="sawDI" output="𒋾"/>
+            <when state="sawDU" output="𒆕"/>
+            <when state="sawDV" output="𒀲𒀴"/>
+            <when state="sawE" output="𒌓𒁺"/>
+            <when state="sawGA" output="𒃷"/>
+            <when state="sawGU" output="𒅗"/>
+            <when state="sawGV" output="𒅍"/>
+            <when state="sawI" output="𒉌"/>
+            <when state="sawKA" output="𒂵"/>
+            <when state="sawKU" output="𒆬"/>
+            <when state="sawKV" output="𒄥"/>
+            <when state="sawLI" output="𒅆"/>
+            <when state="sawLU" output="𒈖"/>
+            <when state="sawMA" output="𒂷"/>
+            <when state="sawME" output="𒀞"/>
+            <when state="sawNE" output="𒄊"/>
+            <when state="sawNI" output="𒃻"/>
+            <when state="sawPA" output="𒅆𒊒"/>
+            <when state="sawPE" output="𒁁"/>
+            <when state="sawPI" output="𒁁"/>
+            <when state="sawQE" output="𒄀"/>
+            <when state="sawRU" output="𒀸"/>
+            <when state="sawSA" output="𒍝"/>
+            <when state="sawSI" output="𒋧"/>
+            <when state="sawSU" output="𒋤"/>
+            <when state="sawSV" output="𒄯"/>
+            <when state="sawTE" output="𒊺𒉀"/>
+            <when state="sawTU" output="𒁺"/>
+            <when state="sawTV" output="𒉣𒇬"/>
+            <when state="sawU" output="𒅇"/>
+            <when state="sawZA" output="𒍠"/>
+            <when state="sawZI" output="𒌆"/>
+        </action>
+        <action id="𒐉">
+            <when state="none" output="𒐉"/>
+            <when state="sawBA" output="𒂷"/>
+            <when state="sawBE" output="𒁀"/>
+            <when state="sawBU" output="𒇥"/>
+            <when state="sawCA" output="𒁺"/>
+            <when state="sawCU" output="𒌋"/>
+            <when state="sawCV" output="𒇳𒊬"/>
+            <when state="sawDE" output="𒋼"/>
+            <when state="sawDI" output="𒌉"/>
+            <when state="sawGE" output="𒄄"/>
+            <when state="sawGI" output="𒄄"/>
+            <when state="sawGU" output="𒄞"/>
+            <when state="sawGV" output="𒆸"/>
+            <when state="sawKA" output="𒋡"/>
+            <when state="sawKE" output="𒆤"/>
+            <when state="sawMU" output="𒌆"/>
+            <when state="sawNA" output="𒉌𒌓"/>
+            <when state="sawPA" output="𒉽"/>
+            <when state="sawPI" output="𒅗"/>
+            <when state="sawTI" output="𒁲"/>
+            <when state="sawTU" output="𒌈"/>
+            <when state="sawU" output="𒌓"/>
+        </action>
+        <action id="𒐊">
+            <when state="none" output="𒐊"/>
+            <when state="sawBV" output="𒉆"/>
+            <when state="sawCA" output="𒀝"/>
+            <when state="sawDE" output="𒊑"/>
+            <when state="sawDV" output="𒀀"/>
+            <when state="sawGA" output="𒋡"/>
+            <when state="sawGE" output="𒆠"/>
+            <when state="sawGI" output="𒆠"/>
+            <when state="sawGU" output="𒆪"/>
+            <when state="sawKA" output="􀀊"/>
+            <when state="sawKU" output="𒋻"/>
+            <when state="sawKV" output="𒋻"/>
+            <when state="sawLA" output="𒇳"/>
+            <when state="sawLU" output="𒈜"/>
+            <when state="sawNI" output="𒉈"/>
+            <when state="sawPA" output="𒉽𒂊"/>
+            <when state="sawRI" output="𒉪"/>
+            <when state="sawSA" output="𒋛𒀀"/>
+            <when state="sawSV" output="𒇲"/>
+            <when state="sawTV" output="𒌅"/>
+            <when state="sawU" output="𒄷𒋛"/>
+            <when state="sawV" output="𒋽"/>
+            <when state="sawVU" output="𒋽"/>
+            <when state="sawWI" output="𒃾"/>
+        </action>
+        <action id="𒐋">
+            <when state="none" output="𒐋"/>
+            <when state="sawBE" output="𒉿"/>
+            <when state="sawBV" output="𒉆"/>
+            <when state="sawCA" output="𒊷"/>
+            <when state="sawDE" output="𒁺"/>
+            <when state="sawDU" output="𒇯"/>
+            <when state="sawGA" output="𒅍"/>
+            <when state="sawGE" output="𒈪"/>
+            <when state="sawGI" output="𒈪"/>
+            <when state="sawHA" output="𒄫"/>
+            <when state="sawKU" output="𒄩"/>
+            <when state="sawMU" output="𒉺"/>
+            <when state="sawRI" output="𒁺"/>
+            <when state="sawSA" output="𒊷"/>
+            <when state="sawSU" output="𒅾"/>
+            <when state="sawTU" output="𒅲"/>
+            <when state="sawU" output="𒍚"/>
+        </action>
+        <action id="𒐌">
+            <when state="none" output="𒐌"/>
+            <when state="sawBE" output="𒉈"/>
+            <when state="sawBU" output="𒆪"/>
+            <when state="sawBV" output="𒄧"/>
+            <when state="sawDU" output="𒌌"/>
+            <when state="sawDV" output="𒁍"/>
+            <when state="sawGI" output="𒌆"/>
+            <when state="sawGU" output="𒅥"/>
+            <when state="sawI" output="𒀀𒇉"/>
+            <when state="sawKU" output="𒆯"/>
+            <when state="sawKV" output="𒅆𒂟"/>
+            <when state="sawMU" output="𒅲"/>
+            <when state="sawMV" output="𒋞"/>
+            <when state="sawRE" output="𒁺"/>
+            <when state="sawSI" output="𒅊"/>
+            <when state="sawSV" output="𒆠𒆕"/>
+            <when state="sawTI" output="𒋼"/>
+            <when state="sawTU" output="𒄰"/>
+            <when state="sawZU" output="𒂄"/>
+        </action>
+        <action id="𒐍">
+            <when state="none" output="𒐍"/>
+            <when state="sawCE" output="𒋁"/>
+            <when state="sawDU" output="𒃮"/>
+            <when state="sawGE" output="𒅆"/>
+            <when state="sawGI" output="𒅆"/>
+            <when state="sawGV" output="𒋽"/>
+            <when state="sawME" output="𒉿"/>
+            <when state="sawNA" output="𒅘"/>
+            <when state="sawSU" output="𒁻"/>
+            <when state="sawTE" output="𒀉"/>
+            <when state="sawTI" output="𒀉"/>
+            <when state="sawTV" output="𒁍"/>
+            <when state="sawU" output="𒇇"/>
+            <when state="sawZI" output="𒆗"/>
+        </action>
+        <action id="𒐎">
+            <when state="none" output="𒐎"/>
+            <when state="sawBA" output="𒁁"/>
+            <when state="sawDE" output="𒋾"/>
+            <when state="sawDV" output="𒂄"/>
+            <when state="sawLI" output="𒉈"/>
+            <when state="sawSA" output="𒉺𒁽"/>
+            <when state="sawTU" output="𒌆"/>
+            <when state="sawU" output="𒂦"/>
+            <when state="sawZU" output="𒆉"/>
+        </action>
+    </actions>
+    <terminators>
+        <when state="SAWQ" output="q"/>
+        <when state="SAWQA" output="qa"/>
+        <when state="SAWQU" output="qu"/>
+        <when state="s1" output="´"/>
+        <when state="s2" output="`"/>
+        <when state="sawA" output="a"/>
+        <when state="sawB" output="b"/>
+        <when state="sawBA" output="ba"/>
+        <when state="sawBE" output="be"/>
+        <when state="sawBI" output="bi"/>
+        <when state="sawBU" output="bu"/>
+        <when state="sawBV" output="bur"/>
+        <when state="sawC" output="š"/>
+        <when state="sawCA" output="ša"/>
+        <when state="sawCE" output="še"/>
+        <when state="sawCI" output="ši"/>
+        <when state="sawCU" output="šu"/>
+        <when state="sawCV" output="šur"/>
+        <when state="sawCapR" output="R"/>
+        <when state="sawD" output="d"/>
+        <when state="sawDA" output="da"/>
+        <when state="sawDE" output="de"/>
+        <when state="sawDI" output="di"/>
+        <when state="sawDU" output="du"/>
+        <when state="sawDV" output="dur"/>
+        <when state="sawE" output="e"/>
+        <when state="sawG" output="g"/>
+        <when state="sawGA" output="ga"/>
+        <when state="sawGE" output="ge"/>
+        <when state="sawGI" output="gi"/>
+        <when state="sawGU" output="gu"/>
+        <when state="sawGV" output="gur"/>
+        <when state="sawH" output="h"/>
+        <when state="sawHA" output="ha"/>
+        <when state="sawHE" output="he"/>
+        <when state="sawHI" output="hi"/>
+        <when state="sawHU" output="hu"/>
+        <when state="sawHV" output="hur"/>
+        <when state="sawI" output="i"/>
+        <when state="sawK" output="k"/>
+        <when state="sawKA" output="ka"/>
+        <when state="sawKE" output="ke"/>
+        <when state="sawKI" output="ki"/>
+        <when state="sawKU" output="ku"/>
+        <when state="sawKV" output="kur"/>
+        <when state="sawKX" output="KA×"/>
+        <when state="sawL" output="l"/>
+        <when state="sawLA" output="la"/>
+        <when state="sawLE" output="le"/>
+        <when state="sawLI" output="li"/>
+        <when state="sawLU" output="lu"/>
+        <when state="sawM" output="m"/>
+        <when state="sawMA" output="ma"/>
+        <when state="sawME" output="me"/>
+        <when state="sawMI" output="mi"/>
+        <when state="sawMU" output="mu"/>
+        <when state="sawMV" output="mur"/>
+        <when state="sawN" output="n"/>
+        <when state="sawNA" output="na"/>
+        <when state="sawNE" output="ne"/>
+        <when state="sawNI" output="ni"/>
+        <when state="sawNU" output="nu"/>
+        <when state="sawP" output="p"/>
+        <when state="sawPA" output="pa"/>
+        <when state="sawPE" output="pe"/>
+        <when state="sawPI" output="pi"/>
+        <when state="sawPU" output="pu"/>
+        <when state="sawPV" output="pur"/>
+        <when state="sawQE" output="qe"/>
+        <when state="sawR" output="r"/>
+        <when state="sawRA" output="ra"/>
+        <when state="sawRE" output="re"/>
+        <when state="sawRI" output="ri"/>
+        <when state="sawRU" output="ru"/>
+        <when state="sawS" output="s"/>
+        <when state="sawSA" output="sa"/>
+        <when state="sawSE" output="se"/>
+        <when state="sawSI" output="si"/>
+        <when state="sawSU" output="su"/>
+        <when state="sawSV" output="sur"/>
+        <when state="sawT" output="t"/>
+        <when state="sawTA" output="ta"/>
+        <when state="sawTE" output="te"/>
+        <when state="sawTI" output="ti"/>
+        <when state="sawTU" output="tu"/>
+        <when state="sawTV" output="tur"/>
+        <when state="sawU" output="u"/>
+        <when state="sawV" output="ur"/>
+        <when state="sawVI" output="uri"/>
+        <when state="sawVU" output="uru"/>
+        <when state="sawW" output="w"/>
+        <when state="sawWA" output="wa"/>
+        <when state="sawWE" output="we"/>
+        <when state="sawWI" output="wi"/>
+        <when state="sawWU" output="wu"/>
+        <when state="sawY" output="y"/>
+        <when state="sawYA" output="ya"/>
+        <when state="sawZ" output="z"/>
+        <when state="sawZA" output="za"/>
+        <when state="sawZE" output="ze"/>
+        <when state="sawZI" output="zi"/>
+        <when state="sawZU" output="zu"/>
+    </terminators>
+</keyboard>
